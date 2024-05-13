@@ -1,0 +1,17 @@
+{
+  "name": "ejercicio_agenda_en_terminal_nodejs",
+  "version": "1.0.0",
+  "description": "ejercicio de terminal con nodejs para practicar lógica de programación",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "terminal"
+  ],
+  "author": "irvinreal",
+  "license": "ISC"
+}
